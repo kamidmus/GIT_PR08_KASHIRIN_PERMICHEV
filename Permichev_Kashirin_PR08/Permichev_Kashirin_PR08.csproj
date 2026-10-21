@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F9B52D8-4D59-45E6-8657-2F6DCE6AFC5C}</ProjectGuid>
+    <ProjectGuid>{E61E4761-382F-5FE0-535B-5BA034D4CEE5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Permichev_Kashirin_PR08</RootNamespace>
     <AssemblyName>Permichev_Kashirin_PR08</AssemblyName>
